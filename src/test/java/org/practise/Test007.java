@@ -8,11 +8,7 @@ public class Test007
 	{
 		System.out.println("Test is Passed");
 		System.out.println("Test is Passed");
-		System.out.println("Test is Passed");
-		System.out.println("Test is Passed");
-		System.out.println("Test is Passed");
-		System.out.println("Test is Passed");
-		System.out.println("Test is Passed");
+		
 	}
 
 }
